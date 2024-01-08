@@ -13,11 +13,13 @@
   <a href="https://github.com/AbdulMoiz55">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  
+   <a href="www.linkedin.com/in/abdul-moiz-khan-69273b182">
+    <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedin Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,github,tensorflow,html,bots,sklearn,mysql,matlab,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,github,tensorflow,sklearn,mysql,matlab,xd&perline=5)](https://skillicons.dev)
 
 ![Abdul Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulMoiz55&show_icons=true&theme=dark)
 
