@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data science Projects
 - 🌱 I’m currently learning Prompt Engineering
 - 💬 Ask me anything 
-- 📫 How to reach me: amoizkhan34@gmail.com
+- 📫 How to reach me: amoizkhan34@outlook.com
 - 😄 My lindedln: www.linkedin.com/in/abdul-moiz-khan-69273b182
 - ⚡ Fun fact: I'm comming to teen
 
